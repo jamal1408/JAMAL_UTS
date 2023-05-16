@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Football App</string>
+    <string name="result">results</string>
+    <string name="judul">Application Football</string>
+    <string name="standing">standings</string>
+    <string name="lineup">Line Up</string>
+    <string name="news">News</string>
+    <string name="rotg">the rest of the game</string>
+    <string name="ranks">rank</string>
+    <string name="team">Teams</string>
+    <string name="exit">Exit</string>
+    <string name="epl_back">EPL Background</string>
+    <string name="Club_Name" />
+    <string name="Club_name">Club_name</string>
+    <string name="content">content</string>
+    <string name="liverpool">liverpool</string>
+    <string name="salah">mohamed_salah</string>
+    <string name="mohamed_salah">Mohamed salah score 3 hattric assist againts leicester</string>
+    <string name="mohamed_salahn">Hattrick Assist, Mohamed Salah Great Action When Liverpool Beat Leicester City</string>
+
+</resources>
